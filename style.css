@@ -1,0 +1,16 @@
+* {
+    font-family: Helvetica, Verdana, sans-serif;
+    font-size: 18px;
+    background-color: slategray;
+}
+
+.recipesTitle {
+    color: lightblue;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.recipesList {
+    color: white;
+    text-align: left;
+}
